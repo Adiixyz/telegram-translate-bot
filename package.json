@@ -1,0 +1,14 @@
+{
+  "name": "telegram-translate-bot",
+  "version": "1.0.0",
+  "description": "Translate Bot Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adiixyz",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "telegraf": "^4.3.0"
+  }
+}
