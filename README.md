@@ -30,5 +30,5 @@ npm i
 [![Run on Repl.It](https://repl.it/badge/github/Adiixyz/telegram-translate-bot)](https://repl.it/github/Adiixyz/telegram-translate-bot)
 
 # thanks to
-[Franky404](https://github.com/Franky404)
-[Telegraf]
+* [Franky404](https://github.com/Franky404)
+* [Telegraf]
