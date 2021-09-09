@@ -2,7 +2,7 @@
 Simple telegram bot created with Telegraf
 
 ## install in windows
-* install [git](https://git-scm.org)
+* install [git](https://git-scm.org/downloads)
 * install [nodejs]
 > follow these steps
 ```cmd
