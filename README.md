@@ -31,6 +31,5 @@ npm i
 ```
 
 # thanks to
-
-> - Franky404
-> - Telegraf
+[Franky404](https://github.com/Franky404)
+[Telegraf]
